@@ -1,0 +1,62 @@
+[
+  {
+    "registrationNumber": "SK-1001-AA",
+    "model": "BMW E90 320d",
+    "parkingSpot": 1,
+    "parked": true
+  },
+  {
+    "registrationNumber": "SK-1002-BB",
+    "model": "Audi A4",
+    "parkingSpot": 2,
+    "parked": false
+  },
+  {
+    "registrationNumber": "SK-1003-CC",
+    "model": "Mercedes C220",
+    "parkingSpot": 3,
+    "parked": true
+  },
+  {
+    "registrationNumber": "SK-1004-DD",
+    "model": "Volkswagen Golf 7",
+    "parkingSpot": 4,
+    "parked": false
+  },
+  {
+    "registrationNumber": "SK-1005-EE",
+    "model": "Toyota Corolla",
+    "parkingSpot": 5,
+    "parked": true
+  },
+  {
+    "registrationNumber": "SK-1006-FF",
+    "model": "Ford Focus",
+    "parkingSpot": 6,
+    "parked": false
+  },
+  {
+    "registrationNumber": "SK-1007-GG",
+    "model": "Opel Astra",
+    "parkingSpot": 7,
+    "parked": true
+  },
+  {
+    "registrationNumber": "SK-1008-HH",
+    "model": "Hyundai i30",
+    "parkingSpot": 8,
+    "parked": false
+  },
+  {
+    "registrationNumber": "SK-1009-II",
+    "model": "Škoda Octavia",
+    "parkingSpot": 9,
+    "parked": true
+  },
+  {
+    "registrationNumber": "SK-1010-JJ",
+    "model": "Tesla Model 3",
+    "parkingSpot": 10,
+    "parked": false
+  }
+]
