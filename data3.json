@@ -1,0 +1,62 @@
+[
+  {
+    "flightNumber": "LH123",
+    "destination": "Berlin",
+    "departureTime": "08:30",
+    "active": true
+  },
+  {
+    "flightNumber": "FR456",
+    "destination": "London",
+    "departureTime": "10:15",
+    "active": false
+  },
+  {
+    "flightNumber": "TK789",
+    "destination": "Istanbul",
+    "departureTime": "12:00",
+    "active": true
+  },
+  {
+    "flightNumber": "OS321",
+    "destination": "Vienna",
+    "departureTime": "13:45",
+    "active": true
+  },
+  {
+    "flightNumber": "JU654",
+    "destination": "Belgrade",
+    "departureTime": "15:20",
+    "active": false
+  },
+  {
+    "flightNumber": "AF987",
+    "destination": "Paris",
+    "departureTime": "17:10",
+    "active": true
+  },
+  {
+    "flightNumber": "AZ741",
+    "destination": "Rome",
+    "departureTime": "18:30",
+    "active": false
+  },
+  {
+    "flightNumber": "KL852",
+    "destination": "Amsterdam",
+    "departureTime": "20:05",
+    "active": true
+  },
+  {
+    "flightNumber": "BA963",
+    "destination": "Manchester",
+    "departureTime": "21:40",
+    "active": false
+  },
+  {
+    "flightNumber": "WZ159",
+    "destination": "Skopje",
+    "departureTime": "23:15",
+    "active": true
+  }
+]
