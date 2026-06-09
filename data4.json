@@ -1,0 +1,62 @@
+[
+  {
+    "guestName": "John Smith",
+    "roomNumber": 101,
+    "nights": 3,
+    "confirmed": true
+  },
+  {
+    "guestName": "Emma Johnson",
+    "roomNumber": 102,
+    "nights": 2,
+    "confirmed": false
+  },
+  {
+    "guestName": "Michael Brown",
+    "roomNumber": 103,
+    "nights": 5,
+    "confirmed": true
+  },
+  {
+    "guestName": "Sophia Davis",
+    "roomNumber": 104,
+    "nights": 1,
+    "confirmed": false
+  },
+  {
+    "guestName": "William Wilson",
+    "roomNumber": 105,
+    "nights": 4,
+    "confirmed": true
+  },
+  {
+    "guestName": "Olivia Taylor",
+    "roomNumber": 106,
+    "nights": 2,
+    "confirmed": false
+  },
+  {
+    "guestName": "James Anderson",
+    "roomNumber": 107,
+    "nights": 6,
+    "confirmed": true
+  },
+  {
+    "guestName": "Isabella Thomas",
+    "roomNumber": 108,
+    "nights": 3,
+    "confirmed": false
+  },
+  {
+    "guestName": "Benjamin Moore",
+    "roomNumber": 109,
+    "nights": 7,
+    "confirmed": true
+  },
+  {
+    "guestName": "Mia Martin",
+    "roomNumber": 110,
+    "nights": 2,
+    "confirmed": false
+  }
+]
